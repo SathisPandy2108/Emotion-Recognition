@@ -26,7 +26,7 @@ This repository contains a Python script for recognizing emotions from Camera us
 1. Run the script:
 
    ```bash
-   python emotion_recognition.py
+   python emotion recognition.py
    ```
 
 
